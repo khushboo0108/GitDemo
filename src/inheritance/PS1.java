@@ -8,6 +8,8 @@ public class PS1 {
 	public void doThis() {
 
 		System.out.println("I am from parent class");
+		System.out.println("I am from parent class 1");
+		System.out.println("I am from parent class 2");
 	}
 
 	@BeforeMethod
