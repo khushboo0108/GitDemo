@@ -11,6 +11,14 @@ public class PS1 {
 		System.out.println("I am from parent class 1");
 		System.out.println("I am from parent class 2");
 	}
+	
+	
+	public void doThis1() {
+
+		System.out.println("I am from parent class");
+		System.out.println("I am from parent class 3");
+		System.out.println("I am from parent class 4");
+	}
 
 	@BeforeMethod
 	public void executeFirst() {
